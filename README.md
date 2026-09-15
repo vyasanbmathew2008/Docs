@@ -30,3 +30,7 @@ Contributions are welcome. Before opening a pull request:
 3. Run the project's existing tests or checks.
 4. Update the documentation when behavior or usage changes.
 5. Include a concise pull request description.
+
+## Maintenance
+
+Keep the README, examples, and installation instructions aligned with the current implementation. When changing a public command or configuration option, update the relevant documentation in the same pull request.
