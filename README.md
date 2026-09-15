@@ -36,3 +36,5 @@ Contributions are welcome. Before opening a pull request:
 Keep the README, examples, and installation instructions aligned with the current implementation. When changing a public command or configuration option, update the relevant documentation in the same pull request.
 
 <!-- Documentation maintenance -->
+
+<!-- documentation-maintenance -->
