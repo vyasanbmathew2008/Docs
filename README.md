@@ -16,3 +16,7 @@ cd Docs
 ```
 
 Review the project files and existing documentation for any language-specific dependencies or build steps.
+
+## Usage
+
+See the project source, examples, and configuration files for the supported commands and usage patterns. Please update this section when new user-facing functionality is added.
