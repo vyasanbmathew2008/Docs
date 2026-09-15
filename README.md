@@ -20,3 +20,13 @@ Review the project files and existing documentation for any language-specific de
 ## Usage
 
 See the project source, examples, and configuration files for the supported commands and usage patterns. Please update this section when new user-facing functionality is added.
+
+## Contributing
+
+Contributions are welcome. Before opening a pull request:
+
+1. Create a focused feature branch.
+2. Keep changes small and explain the motivation clearly.
+3. Run the project's existing tests or checks.
+4. Update the documentation when behavior or usage changes.
+5. Include a concise pull request description.
